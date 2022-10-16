@@ -6,4 +6,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return 
+    return float(a)
+
+print(main(6))    
