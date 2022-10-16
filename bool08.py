@@ -7,6 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return float(a)
+    return int(a) >= 0
 
 print(main(6))    
